@@ -19,3 +19,4 @@ Flush the previous database: python manage.py flush
 Apply database migrations: python manage.py migrate
 Create a superuser account: python manage.py createsuperuser
 Start the development server: python manage.py runserver
+
